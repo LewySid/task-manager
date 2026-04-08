@@ -26,7 +26,7 @@ A fully functional task manager built with Next.js 16, React 19, and Tailwind CS
 2. Clone the repository
 3. Install dependencies: `npm install`
 4. Start development server: `npm run dev`
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open (http://localhost:3000) in your browser
 
 ## AI Usage Log
 
