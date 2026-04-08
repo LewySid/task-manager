@@ -7,7 +7,7 @@ export default function TaskCard({ title, done }) {
         >
         {title}                       {/* {} escapes into JS */}
         </span>
-        {done && <span className="text-green-600 text-xs font-bold">Done</span>}
+        {done && <span className="bg-green-100 text-green-800 text-xs font-bold px-2 py-1 rounded">Done</span>}
     </div>
     );
 }
