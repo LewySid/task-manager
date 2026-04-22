@@ -35,3 +35,10 @@ A fully functional task manager built with Next.js 16, React 19, and Tailwind CS
 - Used Copilot to debug 
 - Used Copilot to help add creative features
 - Asked Copiit check all features work and meet all requirements
+
+## What I learnt
+
+- How to integrate AI to debug and optimize work flow
+- How to customize using stlying in React
+- How to show live stats and display them
+- How to use persist tasks in local storage
